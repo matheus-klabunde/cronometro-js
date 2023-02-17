@@ -9,7 +9,7 @@ Cronômetro simples e intuitivo, feito com JavaScript. <br/>
   <img alt="preview do projeto cronometro js" src=".github/preview.png" width="100%">
 </p>
 
-<p align="center"> Acesse o projeto finalizado  <a href="#">aqui</a>
+<p align="center"> Acesse o projeto finalizado  <a href="https://matheus-klabunde.github.io/cronometro-js/">aqui</a>
 </p>
   
 </br>
