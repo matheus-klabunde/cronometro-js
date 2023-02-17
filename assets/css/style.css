@@ -68,11 +68,6 @@ body{
   transition: all 0.2s ease-in-out;
 }
 
-.btn:hover {
-  transform: scale(1.1);
-  border-color: #172953;
-}
-
 #startBtn {
   background-color: #175cff;
   color: white;
@@ -96,4 +91,12 @@ footer a {
   text-decoration: none;
   font-style: italic;
   color: #f1f1f1;
+}
+
+@media  screen and (min-width: 920px) {
+  
+  .btn:hover {
+    transform: scale(1.1);
+    border-color: #172953;
+  }
 }
